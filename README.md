@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src=" https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif " alt="hi" height="30" width="30"> </img>, I'm Rushikesh Borkar</h1>
+<h1 align="center">Hi 👋, I'm Rushikesh Borkar</h1>
 <h3 align="center">A passionate Engineer from India <img src="https://www.pngall.com/wp-content/uploads/2016/05/India-Flag.png" alt="Indian flag" height="20" width="30"></img></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushi-04&label=Profile%20views&color=0e75b6&style=flat" alt="rushi-04" /> </p>
@@ -17,10 +17,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/rushikesh-borkar-21b198286/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rushikesh borkar" height="40" width="40" /></a>
 <a href="https://discord.com/@rushi_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Rushi-04" height="60" width="60" /></a>
-</p>
-<!-- Adding for the GIF -->
-<p align="right" >
-    <img src=" https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif " alt="Your GIF" width="200" height="300" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
