@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rushikesh-borkar-21b198286/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rushikesh borkar" height="40" width="40" /></a>
-<a href="https://discord.com/@rushi_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Rushi-04" height="60" width="60" /></a>
+<a href="https://discordapp.com/users/1308099776578977873" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Rushi-04" height="60" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
