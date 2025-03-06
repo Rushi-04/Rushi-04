@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Rushikesh Borkar</h1>
-<h3 align="center">A passionate Engineer from India <img src="https://www.pngall.com/wp-content/uploads/2016/05/India-Flag.png" alt="Indian flag" height="20" width="30"></img></h3>
+<!-- <h1 align="center">Hi 👋, I'm Rushikesh Borkar</h1> -->
+<!-- <h3 align="center">A passionate Engineer from India <img src="https://www.pngall.com/wp-content/uploads/2016/05/India-Flag.png" alt="Indian flag" height="20" width="30"></img></h3> -->
+<div class="markdown-heading" dir="auto"><h1 align="center" tabindex="-1" class="heading-element" dir="auto">
+  <a href="https://git.io/typing-svg" rel="nofollow">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There+%F0%9F%91%8B;I%27m+Rushikesh+Borkar....;Nice+to+meet+you+%F0%9F%A4%9D!&amp;center=true&amp;size=30" data-canonical-src="https://readme-typing-svg.herokuapp.com/?lines=Hi+%F0%9F%91%8B,+I%27m+Rushikesh+Borkar....;Nice+to+meet+you+%F0%9F%A4%9D!&amp;center=true&amp;size=30" style="max-width: 100%;">
+  </a>
+</h1><a id="user-content---------" class="anchor" aria-label="Permalink: " href="#--------"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushi-04&label=Profile%20views&color=0e75b6&style=flat" alt="rushi-04" /> </p>
 
