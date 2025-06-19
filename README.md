@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working as an Intern at **OneSmarter**
 
-- 🌱 I’m currently learning **Backend Technologies**
+- 🌱 I’m currently learning **NextJS**
 
 - 👯 I’m looking to collaborate on **Opensource Projects**
 
