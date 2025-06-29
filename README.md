@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **Opensource Projects**
 
-- 📫 How to reach me 👉 **bit.ly/lets-append**
+- 📫 How to reach me 👉 [**bit.ly/lets-append**](https://bit.ly/lets-append)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
