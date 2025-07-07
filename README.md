@@ -1,6 +1,6 @@
 <!-- <h1 align="center">Hi 👋, I'm Rushikesh Borkar</h1> -->
 <!-- <h3 align="center">A passionate Engineer from India <img src="https://www.pngall.com/wp-content/uploads/2016/05/India-Flag.png" alt="Indian flag" height="20" width="30"></img></h3> -->
-<div class="markdown-heading" dir="auto"><h1 align="center" tabindex="-1" class="heading-element" dir="auto">
+<div class="markdown-heading"   dir="auto"><h1 align="center" tabindex="-1" class="heading-element" dir="auto">
   <a href="https://git.io/typing-svg" rel="nofollow">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There+%F0%9F%91%8B;I%27m+Rushikesh+Borkar....;Nice+to+meet+you+%F0%9F%A4%9D!&amp;center=true&amp;size=30" data-canonical-src="https://readme-typing-svg.herokuapp.com/?lines=Hi+%F0%9F%91%8B,+I%27m+Rushikesh+Borkar....;Nice+to+meet+you+%F0%9F%A4%9D!&amp;center=true&amp;size=30" style="max-width: 100%;">
   </a>
