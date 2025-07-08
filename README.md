@@ -31,6 +31,10 @@
   <a href="https://x.com/itz_rushi_21" target="blank">
     <img src="https://cdn-icons-png.flaticon.com/128/5969/5969020.png" alt="Twitter/X" width="50" height="50" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:borkarrushi028@gmail.com" target="blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Twitter/X" width="50" height="50" />
+  </a>
 </p>
 
 <!--
