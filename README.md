@@ -1,47 +1,79 @@
-<!-- <h1 align="center">Hi 👋, I'm Rushikesh Borkar</h1> -->
-<!-- <h3 align="center">A passionate Engineer from India <img src="https://www.pngall.com/wp-content/uploads/2016/05/India-Flag.png" alt="Indian flag" height="20" width="30"></img></h3> -->
-<div class="markdown-heading"   dir="auto"><h1 align="center" tabindex="-1" class="heading-element" dir="auto">
-  <a href="https://git.io/typing-svg" rel="nofollow">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There+%F0%9F%91%8B;I%27m+Rushikesh+Borkar....;Nice+to+meet+you+%F0%9F%A4%9D!&amp;center=true&amp;size=30" data-canonical-src="https://readme-typing-svg.herokuapp.com/?lines=Hi+%F0%9F%91%8B,+I%27m+Rushikesh+Borkar....;Nice+to+meet+you+%F0%9F%A4%9D!&amp;center=true&amp;size=30" style="max-width: 100%;">
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hello%2C+there+%F0%9F%91%8B;I'm+Rushikesh+Borkar.;A+Passionate+Developer+%F0%9F%92%BB;Welcome+to+my+GitHub+%F0%9F%91%BB" alt="Typing SVG" />
   </a>
-</h1><a id="user-content---------" class="anchor" aria-label="Permalink: " href="#--------"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+</div>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushi-04&label=Profile%20views&color=0e75b6&style=flat" alt="rushi-04" /> </p> -->
+---
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushi-04" alt="rushi-04" /></a> </p> -->
+### 🚀 About Me
 
-- 🔭 I’m currently working as an Intern at **OneSmarter**
+- 🔭 Currently working as an **Intern at OneSmarter**
+- 🌱 Actively learning **Frontend Technologies**
+- 👯 Open to collaborating on **Open Source Projects** **, Hackathons**and **Tech Communities**
+- 🧠 AI/ML – currently experimenting with LSTM-based ML models
+- 📫 How to reach me: [**bit.ly/lets-append**](https://bit.ly/lets-append)
 
-- 🌱 I’m currently learning **Frontend Technologies**
+---
 
-- 👯 I’m looking to collaborate on **Opensource Projects**
+### 🌐 Connect with Me
 
-- 📫 How to reach me 👉 [**bit.ly/lets-append**](https://bit.ly/lets-append)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rushikesh-borkar-21b198286/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rushikesh borkar" height="40" width="40" /></a>
-<a href="https://discordapp.com/users/1308099776578977873" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Rushi-04" height="60" width="60" /></a>
+  <a href="https://www.linkedin.com/in/rushikesh-borkar-21b198286/" target="blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3992/3992606.png" alt="LinkedIn" width="50" height="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discordapp.com/users/1308099776578977873" target="blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2626/2626288.png" alt="Discord" width="50" height="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/itz_rushi_21" target="blank">
+    <img src="https://cdn-icons-png.flaticon.com/128/5969/5969020.png" alt="Twitter/X" width="50" height="50" />
+  </a>
 </p>
 
 <!--
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="70" height="70"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="70" height="70"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="70"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="70"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="70" height="70"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="70" height="70"/> </a> </p> -->
+### 🛠️ Languages & Tools
 
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushi-04&show_icons=true&locale=en&layout=compact" alt="rushi-04" /></p>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="FastAPI" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub.png" alt="GitHub" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> &nbsp;&nbsp;
+  <img src="https://img.icons8.com/ios/50/windows10.png" alt="Windows" width="40" height="40"/> &nbsp;&nbsp;
+</p>
+ -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushi-04&show_icons=true&locale=en" alt="rushi-04" /></p> -->
+---
 
+### 📊 GitHub Stats
 
-<br/>
-  <h2 align="center">⚡ Current Statistics ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=Rushi-04&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Rushi-04&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushi-04&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<div align="center">
+  <img width="410" height="160" src="https://streak-stats.demolab.com?user=Rushi-04&theme=react&border_radius=10" alt="Streak Stats"/>
+  <img width="400" height="160" src="https://github-readme-stats.vercel.app/api?username=Rushi-04&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushi-04&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
 </div>
 
-  <br/>
+---
 
-<br/><br/>
+> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+
+---
+
+🔗*Thanks for visiting my profile! Let's build something great together 🚀*
+
