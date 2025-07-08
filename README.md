@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 About Me
+### 🙋🏻 About Me
 
 - 🔭 Currently working as an **Intern at OneSmarter**
 - 🌱 Actively learning **Frontend Technologies**
@@ -17,7 +17,7 @@
 
 ---
 
-### 🌐 Connect with Me
+### 🤝 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rushikesh-borkar-21b198286/" target="_blank">
@@ -65,7 +65,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <div align="center">
   <img width="410" height="160" src="https://streak-stats.demolab.com?user=Rushi-04&theme=react&border_radius=10" alt="Streak Stats"/>
