@@ -20,19 +20,19 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/rushikesh-borkar-21b198286/" target="blank">
+  <a href="https://www.linkedin.com/in/rushikesh-borkar-21b198286/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/3992/3992606.png" alt="LinkedIn" width="50" height="50" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discordapp.com/users/1308099776578977873" target="blank">
+  <a href="https://discordapp.com/users/1308099776578977873" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2626/2626288.png" alt="Discord" width="50" height="50" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/itz_rushi_21" target="blank">
+  <a href="https://x.com/itz_rushi_21" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/5969/5969020.png" alt="Twitter/X" width="50" height="50" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:borkarrushi028@gmail.com" target="blank">
+  <a href="mailto:borkarrushi028@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Twitter/X" width="50" height="50" />
   </a>
 </p>
