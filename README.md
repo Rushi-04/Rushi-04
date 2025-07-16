@@ -36,7 +36,7 @@
   <a href="mailto:borkarrushi028@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Twitter/X" width="50" height="50" />
   </a>
-</p>
+</p>  
 
 <!--
 ### 🛠️ Languages & Tools
