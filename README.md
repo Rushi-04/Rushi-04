@@ -10,7 +10,7 @@
             
 ### 🙋🏻 About Me    
               
-- 🔭  Dev **@OneSmarter Inc.**
+- 🔭  Dev **@OneSmarter Inc.**   
 - 🌱 Actively learning **React Native**    
 - 👯 Open to collaborate on **Open Source Projects**, **Hackathons** and **Tech Communities**
 - 🧠 AI/ML – currently experimenting with LSTM-based ML models
