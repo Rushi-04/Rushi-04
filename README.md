@@ -8,7 +8,7 @@
                     
 ---            
             
-### 🙋🏻 About Me       
+### 🙋🏻 About Me         
               
 - 🔭  Dev **@OneSmarter Inc.**
 - 🌱 Actively learning **React Native**      
