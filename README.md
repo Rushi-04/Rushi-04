@@ -10,10 +10,10 @@
             
 ### 🙋🏻 About Me           
                   
-- 🌱 Actively learning **React Native**      
-- 👯 Open to collaborate on **Open Source Projects**, **Hackathons** and **Tech Communities**
-- 🧠 AI/ML – currently experimenting with SLM's
-- 📫 How to reach me: [**bit.ly/lets-append**](https://bit.ly/lets-append)
+-  Actively learning **React Native**      
+-  Open to collaborate on **Open Source Projects**, **Hackathons** and **Tech Communities**
+-  AI/ML – currently experimenting with SLM's
+-  How to reach me: [**bit.ly/lets-append**](https://bit.ly/lets-append)
 
 ---
    
