@@ -79,5 +79,5 @@
 
 ---
 
-🔗*Thanks for visiting my profile! Let's build something great together 🚀*
+🔗*Thanks for visiting my profile! Let's build something great together *
 
