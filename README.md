@@ -17,7 +17,7 @@
 
 ---
    
-###  Connect with Me
+###  Connect with Me 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rushikesh-borkar-21b198286/" target="_blank">
@@ -75,7 +75,7 @@
 
 ---
 
-> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House 
+> *“Code is like humor. When you have to explain it, it’s bad.”* –  Cory House 
 
 ---
 
