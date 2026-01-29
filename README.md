@@ -10,7 +10,7 @@
             
 ###  About Me            
                   
--  Actively learning **React Native**      
+-  Actively learning **Gen-AI**      
 -  Open to collaborate on **Open Source Projects**, **Hackathons** and **Tech Communities**
 -  AI/ML – currently experimenting with Applied AI 
 -  How to reach me: [**bit.ly/lets-append**](https://bit.ly/lets-append)
