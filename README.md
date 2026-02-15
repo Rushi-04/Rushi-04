@@ -9,7 +9,7 @@
 ---              
             
 ###  About Me            
-                  
+                     
 -  Actively learning **Gen-AI**         
 -  Open to collaborate on **Open Source Projects**, **Hackathons** and **Tech Communities**
 -  AI/ML – currently experimenting with Applied AI 
